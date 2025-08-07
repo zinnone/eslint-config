@@ -5,9 +5,32 @@
   "description": "ESLint configuration used by ZinnOne.",
   "main": "index.js",
   "license": "MIT",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "zinnone",
+    "javascript",
+    "typescript",
+    "react",
+    "nextjs",
+    "nodejs"
+  ],
+  "author": "ZinnOne",
   "repository": {
-    "url": "zinnone/eslint-config"
+    "type": "git",
+    "url": "git+https://github.com/zinnone/eslint-config.git"
   },
+  "bugs": {
+    "url": "https://github.com/zinnone/eslint-config/issues"
+  },
+  "homepage": "https://github.com/zinnone/eslint-config#readme",
+  "files": [
+    "index.js",
+    "react.js",
+    "next.js",
+    "node.js",
+    "README.md"
+  ],
   "peerDependencies": {
     "eslint": "^8.0.0",
     "typescript": ">=5"
